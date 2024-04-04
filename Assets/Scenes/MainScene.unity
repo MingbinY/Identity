@@ -2214,7 +2214,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Game Time: '
+  m_Text: ' Game Time: '
 --- !u!222 &556508531
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2892,7 +2892,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: ' You Saved:'
+  m_Text: '    You Killed:'
 --- !u!222 &768072432
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5984,7 +5984,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'You Killed:'
+  m_Text: 'You Saved:'
 --- !u!222 &1501680310
 CanvasRenderer:
   m_ObjectHideFlags: 0
